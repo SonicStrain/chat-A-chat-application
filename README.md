@@ -12,4 +12,8 @@ A chat application using socket.io and express.js.
 * Join any room using room name
 * Image sending support
 
-![Screenshot](./UI_Preview/ui.png)
+### UI PREVIEW
+* Login Page
+![login](./UI_Preview/login.png)
+* UI Page
+![UI](./UI_Preview/ui.png)
