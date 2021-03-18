@@ -11,3 +11,5 @@ A chat application using socket.io and express.js.
 * Multicast,Unicast Support inside chat room
 * Join any room using room name
 * Image sending support
+
+![Screenshot](./UI_Preview/ui.jpg)
