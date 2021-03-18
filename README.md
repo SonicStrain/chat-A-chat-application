@@ -13,7 +13,7 @@ A chat application using socket.io and express.js.
 * Image sending support
 
 ### UI PREVIEW
-* Login Page
+###### Login Page
 ![login](./UI_Preview/login.png)
-* UI Page
+###### UI Page
 ![UI](./UI_Preview/ui.png)
