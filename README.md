@@ -12,4 +12,4 @@ A chat application using socket.io and express.js.
 * Join any room using room name
 * Image sending support
 
-![Screenshot](./UI_Preview/ui.jpg)
+![Screenshot](./UI_Preview/ui.png)
