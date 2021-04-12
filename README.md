@@ -1,8 +1,6 @@
 # chat-A-chat-application
 A chat application using socket.io and express.js.
 
-### Visit : https://chat-dorm.herokuapp.com/
-
 ### Tools-Used
 * Node.js
 * socket.io
