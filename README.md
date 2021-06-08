@@ -14,6 +14,6 @@ A chat application using socket.io and express.js.
 
 ### UI PREVIEW
 ###### Login Page
-![login](./UI_Preview/login.png)
+![login](https://github.com/SonicStrain/UI_Images/blob/35347178d726430018246b6f83ccabd484c017ec/Chat-app/Screenshot%20(184).png)
 ###### UI Page
-![UI](./UI_Preview/ui.png)
+![UI](https://github.com/SonicStrain/UI_Images/blob/35347178d726430018246b6f83ccabd484c017ec/Chat-app/ui.png)
